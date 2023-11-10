@@ -49,3 +49,18 @@
     align-items: center;
     justify-content: center;
   }
+
+  .correct {
+    background-color: darkgreen;
+    color: white;
+  }
+
+  .close {
+    background-color:goldenrod;
+    color: white;
+  }
+
+  .wrong {
+    background-color: #888;
+    color: white;
+  }
